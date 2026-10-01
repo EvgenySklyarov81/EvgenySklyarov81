@@ -101,7 +101,7 @@
 
 </details>
 
-### 🔄 [ad-hoc-sales-queries](https://github.com/EvgenySklyarov81/ad-hoc-sales-queries) | Оперативный анализ продаж (Ad-hoc запросы) в Google Colab
+### ❔ [ad-hoc-sales-queries](https://github.com/EvgenySklyarov81/ad-hoc-sales-queries) | Оперативный анализ продаж (Ad-hoc запросы) в Google Colab
 <details>
 <summary>Описание проекта</summary>
 
@@ -111,8 +111,8 @@
   * Реализована автоматическая загрузка исходных данных: написан скрипт (`urllib.request`, `os`) для скачивания CSV-файлов из репозитория напрямую в облачную сессию Google Colab.
   * Проведен экспресс-анализ транзакций методами библиотеки Pandas: вычислен средний чек на конкретные даты, определены категории-лидеры по объемам продаж за фиксированные периоды.
   * Построена базовая визуализация результатов с использованием библиотеки Matplotlib для наглядного представления ответов на бизнес-вопросы.
-  * Настроена удобная демонстрация решений: в README добавлены прямые ссылки для интерактивного запуска блокнота в Google Colab и статического просмотра кода через nbviewer.
+  * Настроена удобная демонстрация решений: код с результатами выполнения ячеек и графиками доступен прямо в интерфейсе GitHub, а также приложена ссылка для интерактивного запуска блокнота в Google Colab.
 
-* **Стек:** Python (Pandas, NumPy, Matplotlib), os, urllib.request, Google Colab, nbviewer.
+* **Стек:** Python (Pandas, NumPy, Matplotlib), os, urllib.request, Google Colab.
 
 </details>
